@@ -30,11 +30,7 @@ var friends=[
 "salary":"$50000",
 "img":"https://imgur.com/O5Kakno.jpg"
 },
-{"name":"Tonni",
-"email": "munna@gmail.com",
-"salary":"$50000",
-"img":"https://imgur.com/WZNX3fh.jpg"
-},
+
 {"name":"Salman-sha",
 "email": "munna@gmail.com",
 "salary":"$50000",

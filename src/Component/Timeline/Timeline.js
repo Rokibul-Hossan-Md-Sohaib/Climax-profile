@@ -9,12 +9,12 @@ const Timeline = () => {
      
 
     return (
-        <div className="timeline-container">
+        <div className="flex">
             <div className="man-container">
                 {mans.map(mn =><Man man={mn}></Man>)};
             </div>
             <div className="card-container">
-                <h2>this is card</h2>
+                <h2>My Profile</h2>
             </div>
             
         </div>
